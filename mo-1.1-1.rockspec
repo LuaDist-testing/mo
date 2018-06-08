@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "mo"
-version = "1.0-1"
+version = "1.1-1"
 -- LuaDist source
 source = {
-  tag = "1.0-1",
+  tag = "1.1-1",
   url = "git://github.com/LuaDist-testing/mo.git"
 }
 -- Original source
 -- source = {
 --    url = "git://github.com/starius/mo.lua.git",
---    tag = "1.0",
+--    tag = "1.1",
 -- }
 description = {
    summary = "Parser for MO files",
